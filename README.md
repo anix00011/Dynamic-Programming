@@ -1,2 +1,2 @@
 # Dynamic-Programming
-Tutorials(DP)
+DP-Programs
