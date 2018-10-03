@@ -1,4 +1,5 @@
-
+//see this->https://www.youtube.com/watch?v=PafJOaMzstY
+//also see tushar roy's video
 import java.util.*;
 class test3 {
     public static void main(String[] args) {
